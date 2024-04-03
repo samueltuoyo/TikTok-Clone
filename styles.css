@@ -44,6 +44,7 @@
 .Account{
   background: #FAEFEF;
   padding: 5px;
+  border-radius: 4px;
   
 }
 ul, li{
@@ -59,7 +60,14 @@ ul, li{
 .account{
   font-weight: bolder;
 }
-
+.Account i{
+  margin-left: 10px;
+}
 .Account span{
+  margin-left:40px;
+}
+
+h3{
+  font-size:10px;
   
 }
